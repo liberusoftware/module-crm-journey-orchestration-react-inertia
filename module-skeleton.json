@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-journey-orchestration-react-inertia",
+  "capabilityKey": "liberusoftware/module-crm-journey-orchestration",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-crm-journey-orchestration-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/crm/nextjs/journey-orchestration.md",
+  "presentationPlan": "projects/crm/react/journey-orchestration.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
